@@ -1,4 +1,4 @@
-import { Command } from 'tyley';
+import { Command } from '../tyley';
 import axios from 'axios';
 
 export class SearchCommand implements Command {
