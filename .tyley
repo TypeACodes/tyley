@@ -1,0 +1,16 @@
+[[Changelogs]{]
+console = "opengui"
+ui_type = "gui:tui:/3"
+[[2023-8-14]]
+title = "Tyley-dataset has moved to TypeACode/tyley-dataset"
+description = "Tyley using our Dataset(tyley update tyley@least.dataset) for Update database of tyley's server set(tyley update-dataset)"
+[[2023-7-8]]
+title = "Self-hosted has been ended for service"
+EOF = true
+description = "No description needs"
+
+[}]
+[[info]{]
+use = "tyley init"
+description = "Initiative 2 file in the your project"
+[}]
