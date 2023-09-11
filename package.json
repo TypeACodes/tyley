@@ -1,0 +1,21 @@
+{      
+ "name": "tyley",                                    
+ "version": "1.8.9",                                                    
+ "description": "An powerful tool for types",                             
+ "main": "tyley.ts",
+ "bin":{
+   "tyley": "./tyley.ts",
+   "t": "./tyley.ts",
+   
+ },
+  
+ "scripts": {                                                             
+   "test": "echo \"Error: no test specified\" && exit 1"              
+ },                                                                         
+ "keywords": [                                                            
+  ""                                                                 
+ ],                                                                         
+ "author": "Tyley",                                             
+ "license": "MIT",                                                      
+ "publishConfig": { "registry": "https://npm.pkg.github.com/" }    
+  }
